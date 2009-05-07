@@ -1,0 +1,1 @@
+hijack.o: hijack.c $(hdrdir)/ruby.h $(hdrdir)/define.h $(hdrdir)/intern.h $(hdrdir)/env.h $(hdrdir)/node.h
